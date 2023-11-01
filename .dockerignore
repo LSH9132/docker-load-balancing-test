@@ -1,6 +1,4 @@
-#IDE
-.idea
-# Logs
+# Logs .gitignore
 logs
 *.log
 npm-debug.log*
